@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c443088d-89cc-40a6-a1fe-53569a2f91d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/segunda/aula/Condicionais.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/segunda/aula/SegundaAula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segunda/aula/Entradas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primeira/aula/PrimeiraAulaExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primeira/aula/Variaveis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,13 +80,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -102,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663628913133</updated>
       <workItem from="1663628916348" duration="4523000" />
-      <workItem from="1663798722794" duration="6576000" />
+      <workItem from="1663798722794" duration="6964000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1663634468753</created>
@@ -132,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663802847444</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Inclusão condicionais">
+      <created>1663807177554</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663807177554</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +148,8 @@
     <MESSAGE value="Atualização branche" />
     <MESSAGE value="Atualização dados" />
     <MESSAGE value="Inicio aula 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inicio aula 2" />
+    <MESSAGE value="Inclusão condicionais" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inclusão condicionais" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -1,6 +1,6 @@
 package primeira.aula;
 
-public class PrimeiraAulaExamples {
+public class Variaveis {
     public static void main(String[] args) {
         int numero = 632687093;
         float peso = 32.98f;
