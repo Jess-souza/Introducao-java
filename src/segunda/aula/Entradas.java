@@ -2,7 +2,7 @@ package segunda.aula;
 
 import java.util.Scanner;
 
-public class SegundaAula {
+public class Entradas {
     static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
@@ -25,7 +25,7 @@ public class SegundaAula {
         System.out.print("Digite seu estado: ");
         String estado = sc.nextLine();
 
-        System.out.printf("A idade da %s é %d anos, ela mora em %s, %s e pesa %.2f kilos.", nome, idade, cidade, estado, peso);
+        System.out.printf("A idade do(a) %s é %d anos, ele(a) mora em %s, estado de(o) %s e pesa %.2f kilos.", nome, idade, cidade, estado, peso);
         sc.close();
     }
 }
