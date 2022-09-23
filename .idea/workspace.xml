@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c443088d-89cc-40a6-a1fe-53569a2f91d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/terceira/aula/Linguagem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/terceira/aula/SwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/terceira/aula/SwitchCaseEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c443088d-89cc-40a6-a1fe-53569a2f91d5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,18 +73,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -104,7 +100,7 @@
       <workItem from="1663628916348" duration="4523000" />
       <workItem from="1663798722794" duration="7021000" />
       <workItem from="1663807633012" duration="1557000" />
-      <workItem from="1663974845989" duration="1073000" />
+      <workItem from="1663974845989" duration="1387000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1663634468753</created>
@@ -148,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663807575854</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Inclusão exercícios sonvre switch case e enum">
+      <created>1663976193134</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663976193134</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +163,8 @@
     <MESSAGE value="Atualização dados" />
     <MESSAGE value="Inicio aula 2" />
     <MESSAGE value="Inclusão condicionais" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inclusão condicionais" />
+    <MESSAGE value="Inclusão exercícios sonvre switch case e enum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inclusão exercícios sonvre switch case e enum" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
