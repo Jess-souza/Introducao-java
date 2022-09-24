@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c443088d-89cc-40a6-a1fe-53569a2f91d5" name="Changes" comment="" />
+    <list default="true" id="c443088d-89cc-40a6-a1fe-53569a2f91d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/terceira/aula/exercicio/Escolha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/terceira/aula/exercicio/FormaDePagamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -100,7 +105,7 @@
       <workItem from="1663628916348" duration="4523000" />
       <workItem from="1663798722794" duration="7021000" />
       <workItem from="1663807633012" duration="1557000" />
-      <workItem from="1663974845989" duration="1387000" />
+      <workItem from="1663974845989" duration="4739000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1663634468753</created>
@@ -151,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663976193134</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Inclusão exercícios sobre switch case e enum">
+      <created>1663976242078</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663976242078</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,7 +176,8 @@
     <MESSAGE value="Inicio aula 2" />
     <MESSAGE value="Inclusão condicionais" />
     <MESSAGE value="Inclusão exercícios sonvre switch case e enum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inclusão exercícios sonvre switch case e enum" />
+    <MESSAGE value="Inclusão exercícios sobre switch case e enum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inclusão exercícios sobre switch case e enum" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
